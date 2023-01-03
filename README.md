@@ -1,6 +1,6 @@
 # JAGATH SAI NARAYANA KAKARAPARTY
 
-[LinkedIn](www.linkedin.com/in/sai2499)
+[LinkedIn](www.linkedin.com/in/sai2499) | sainarayana2499@gmail.com | jagathsa@buffalo.edu | [GitHub](www.github.com/sai2499) |
 
 ## EDUCATION:
 **1. Master’s in Data Science | University at Buffalo, The State University of New York | GPA: 3.66/4.00 | Jan 22 – May 23**
@@ -43,3 +43,9 @@
   - Databases: MySQL, MSSQL, MongoDB, Postgres.
   - Services: GitHub, Bitbucket, JIRA, Confluence.
 
+## CERTIFICATION:
+  - TCA-TIBCO Spotfire
+  - Cybersecurity Foundation
+  - Learn Spring Boot 3 in 100 Steps - No 1 Java Framework
+  - React Native and Redux Course using hooks
+  - Data Analysis with Pandas and Python
