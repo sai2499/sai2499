@@ -28,11 +28,11 @@
    * Stack: Iron Python, Python, C#, SQL, MongoDB, XML, JavaScript, Spotfire
    - Provided Technical support and customer service for TIBCO Spotfire®. Associate engineer committed to diagnosing and Fixing API-related issues. Troubleshoot with the     execution of the API to assist customers with problem isolation and resolution.
    - Developing and integrating interactive dashboards with external websites using REST and SOAP API.
-   - Research client's issues in a timely manner and follow up with the customer with workarounds and action plans. [Link]
+   - Research client's issues in a timely manner and follow up with the customer with workarounds and action plans. [Link](https://support.tibco.com/s/article/Calling-a-Stored-Procedure-in-Oracle-Database-using-IronPython-Script-in-TIBCO-Spotfire-throws-the-error-System-Data-OracleClient-OracleException-ORA-00900-invalid-SQL-statement)
 
 **2. Full Stack Intern | iWork Technologies Private Limited; Pune, India | June 19 – Aug 19**
   * Stack: Angular JS, Angular 7, Spring Boot, MongoDB
-  - Worked as a Full stack intern integrating Backend with Frontend and developing webpages. [Link]
+  - Worked as a Full stack intern integrating Backend with Frontend and developing webpages. [Link](https://skipcart.com/)
   - Assisting testing team to verify Browser compatibility of various Use-case scenarios, design and optimize a corporate website based on e-Delivery technology.
 
 ## SKILLS:
