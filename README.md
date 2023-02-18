@@ -27,8 +27,7 @@
 ## EXPERIENCE: 
 **1. Associate Engineer | TIBCO Software India Private Limited; Pune, India | Sept 20 – Jan 22**
    * Stack: Iron Python, Python, C#, SQL, MongoDB, XML, JavaScript, Spotfire
-   - Assisted customers and partners in implementing the Tibco Spotfire public APIs and SDKs to create custom extensions and integrate with external component and     
-     environments. Primary languages used include Python, C#, Java, JavaScript.
+   - Assisted customers and partners in implementing the Tibco Spotfire public APIs and SDKs to create custom extensions and integrate with external component and    environments. Primary languages used include Python, C#, Java, JavaScript.
    - Implementation of Visual Dashboards for showcasing Spotfire capabilities for pre-sales Demo projects. Working on widespread enterprise data from different data sources      such as SQL Server, Postgres and Snowflake to unify and analyze.
    - Creating views and indexing in SQL to speed up data access and Technical Consultation on the best practices for implementing and incorporating custom machine learning      scripts on Python Data Functions and TIBCO Enterprise Runtime for R. [Link](https://support.tibco.com/s/article/Calling-a-Stored-Procedure-in-Oracle-Database-using-IronPython-Script-in-TIBCO-Spotfire-throws-the-error-System-Data-OracleClient-OracleException-ORA-00900-invalid-SQL-statement)
 
