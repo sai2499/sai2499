@@ -1,4 +1,4 @@
-<div align="center">JAGATH SAI NARAYANA KAKARAPARTY</div>
+<div align="center"><h1>JAGATH SAI NARAYANA KAKARAPARTY</h1></div>
 
 | www.linkedin.com/in/sai2499 | sainarayana2499@gmail.com | jagathsa@buffalo.edu | www.github.com/sai2499 |
 
