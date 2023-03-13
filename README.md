@@ -26,23 +26,24 @@
    
 ## EXPERIENCE: 
 **1. Associate Engineer | TIBCO Software India Private Limited; Pune, India | Sept 20 – Jan 22**
-   - Assisted customers and partners in implementing the Tibco Spotfire public APIs and SDKs to create custom extensions and integrate with external component and    environments. Primary languages used include Python, C#, Java, JavaScript.
-   - Implementation of Visual Dashboards for showcasing Spotfire capabilities for pre-sales Demo projects. Working on widespread enterprise data from different data sources      such as SQL Server, Postgres and Snowflake to unify and analyze.
-   - Creating views and indexing in SQL to speed up data access and Technical Consultation on the best practices for implementing and incorporating custom machine learning      scripts on Python Data Functions and TIBCO Enterprise Runtime for R. [Link](https://support.tibco.com/s/article/Calling-a-Stored-Procedure-in-Oracle-Database-using-IronPython-Script-in-TIBCO-Spotfire-throws-the-error-System-Data-OracleClient-OracleException-ORA-00900-invalid-SQL-statement)
+   - Implemented Visual Dashboards for showcasing Spotfire capabilities for pre-sales Demo projects. Integrated widespread enterprise data from multiple          data sources such as SQL Server, Postgres, and Snowflake analyze.
+   - Developed Python scripts using REST and SOAP API clients to authenticate and access dashboard from frontend applications. Creating views and index data      in SQL to reduce access time by 45%.
+   - Built Spotfire public APIs and SDKs for creating extensions and collaborated with Product development to resolve bugs. Primary languages used include        Python, C#, Java, JavaScript.
+   - Provided consultation to clients on the best practices for formulating custom machine learning scripts on Python and TERR data functions. [Link](https://support.tibco.com/s/article/Calling-a-Stored-Procedure-in-Oracle-Database-using-IronPython-Script-in-TIBCO-Spotfire-throws-the-error-System-Data-OracleClient-OracleException-ORA-00900-invalid-SQL-statement)
 
 **2. Full Stack Intern | iWork Technologies Private Limited; Pune, India | June 19 – Aug 19**
-  - Developed RESTful API webservices using Java Spring, Hibernate framework and MongoDB database. Worked on Angular 7 to integrate backend
-and frontend.  [Link](https://skipcart.com/)
-  - Assisting testing team to verify Browser compatibility of various Use-case scenarios, design and optimize a corporate website based on
-e- Delivery technology. 
+   - Built RESTful webservices using Java Spring, Hibernate framework and MongoDB database. Integrated backend data using Angular 7.
+   - Evaluated Browser compatibility of various Use-case scenarios using Selenium and coordinating with the development team to fix the reported backlogs,        reducing the delivery time by 33%.
 
 ## SKILLS:
-  - Languages: Python, IronPython, Java, C#, R.
-  - Tools & IDE: Spotfire, Tableau, MATLAB, Postman, SoapUI, IntelliJ, Eclipse, PyCharm & R Studio.
-  - Frameworks: Spring Boot, Hibernate & StreamIO.
-  - Packages: Pandas, NumPy, Matplotlib, beautifulsoup4, scikit-learn, NLTK, spacy, Plotly, ggplot.
-  - Databases: MySQL, MSSQL, MongoDB, Postgres.
-  - Services: GitHub, Bitbucket, JIRA, Confluence.
+   - Programming Languages: Python, IronPython, Java, C#, R, R-markdown.
+   - Tools & IDE: MATLAB, Postman, SoapUI
+   - Visualization Tools: Spotfire, Tableau.
+   - Frameworks: Spring Boot & Hibernate.
+   - Data Science and Statistics: NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn, PySpark, Keras, NLP, A/B testing, Hypothesis testing, ANOVA,          Time Series.
+   - Databases: MySQL, MSSQL, MongoDB, Postgres.
+   - Services: GitHub, Bitbucket, JIRA, Confluence.
+   - Big Data: Hadoop, Apache Spark, Hive.
 
 ## CERTIFICATION:
   - TCA-TIBCO Spotfire
