@@ -47,6 +47,10 @@
 
 ## CERTIFICATION:
   - TCA-TIBCO Spotfire
+  - AZ-900 Azure Cloud Fundamentals
+  - AWS Cloud Fundamentals
+  - Tableau Desktop Specialist
+  - Databricks Lakehouse Fundamentals
   - Cybersecurity Foundation
   - Learn Spring Boot 3 in 100 Steps - No 1 Java Framework
   - React Native and Redux Course using hooks
