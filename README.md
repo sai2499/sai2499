@@ -1,6 +1,6 @@
 <div align="center"><h1>JAGATH SAI NARAYANA KAKARAPARTY</h1></div>
 
-<div align="center">| www.linkedin.com/in/sai2499 | jagathsa@buffalo.edu | www.github.com/sai2499 |</div>
+<div align="center">| www.linkedin.com/in/sai2499 | www.github.com/sai2499 |</div>
 
 ## EDUCATION:
 **1. Master’s in Data Science | University at Buffalo, The State University of New York | GPA: 3.66/4.00 | Jan 22 – May 23**
@@ -25,20 +25,10 @@
    - Cybersecurity and Forensic Analysis
    
 ## EXPERIENCE: 
+**1. Machine Learning Quality Engineer | ServiceNow Inc | Santa Clara, California | July 23 - Till Date**
 **1. Associate Support Engineer | TIBCO Software India Private Limited | Pune, India | Sept 20 – Jan 22**
-   - Orchestrated ETL data pipelines for data extraction and manipulation using AWS S3, AWS Glue & AWS Redshift, and Spotfire cloud to automate incoming cases,          thereby reducing 70% of manual tracking. Built Spotfire public APIs and SDKs for creating extensions and collaborated with Product development to resolve bugs.
-   - Designed reports and Visual Dashboards to showcase Spotfire capabilities and provide a drill-down capability for pre-sales Demo projects. Data integration of        widespread enterprise data from multiple data sources such as SQL Server, Postgres, and Snowflake.
-   - Developed Python scripts using REST and SOAP API clients to authenticate and access the dashboard from the front end using React JS applications. Implemented        stored procedures and index data, reducing access time by 40% and automating job execution.
-   - Developed and deployed machine learning models on Spotfire Cloud using Python and TERR data functions.[Link](https://support.tibco.com/s/article/Calling-a-Stored-Procedure-in-Oracle-Database-using-IronPython-Script-in-TIBCO-Spotfire-throws-the-error-System-Data-OracleClient-OracleException-ORA-00900-invalid-SQL-statement)
-
 **2. Data Analyst Intern | Software Kraft Solution Private Limited | Pune, India | Sept 19 – Aug 20**
-   - Testing 10+ stored procedures with SQL Server Management Studio.
-   - Conduct data cleaning tasks such as removing duplicates, filling in missing values, transforming 1,000,000 rows of raw data into database models, and analyzing      them in Tableau.
-   - Built ETL pipelines to consume data from Azure Blob, perform transformation using Azure DataFactory and load it to SQL Server.
-
 **3. Full Stack Intern | iWork Technologies Private Limited | Pune, India | June 19 – Aug 19**
-   - Built RESTful webservices using Java Spring, Hibernate framework and MongoDB database. Integrated backend data using Angular 7.
-   - Evaluated Browser compatibility of various Use-case scenarios using Selenium and coordinating with the development team to fix the reported backlogs,                reducing the delivery time by 33%.
 
 ## SKILLS:
    - Languages: Python, R, IronPython, Java.
