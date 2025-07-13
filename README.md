@@ -4,8 +4,11 @@
 
 ## EXPERIENCE: 
 **1. Machine Learning Quality Engineer | ServiceNow Inc | Santa Clara, California | July 23 - Till Date**
+
 **2. Associate Support Engineer | TIBCO Software India Private Limited | Pune, India | Sept 20 – Jan 22**
+
 **3. Data Analyst Intern | Software Kraft Solution Private Limited | Pune, India | Sept 19 – Aug 20**
+
 **4. Full Stack Intern | iWork Technologies Private Limited | Pune, India | June 19 – Aug 19**
 
 ## EDUCATION:
