@@ -2,6 +2,12 @@
 
 <div align="center">| www.linkedin.com/in/sai2499 | www.github.com/sai2499 |</div>
 
+## EXPERIENCE: 
+**1. Machine Learning Quality Engineer | ServiceNow Inc | Santa Clara, California | July 23 - Till Date**
+**2. Associate Support Engineer | TIBCO Software India Private Limited | Pune, India | Sept 20 – Jan 22**
+**3. Data Analyst Intern | Software Kraft Solution Private Limited | Pune, India | Sept 19 – Aug 20**
+**4. Full Stack Intern | iWork Technologies Private Limited | Pune, India | June 19 – Aug 19**
+
 ## EDUCATION:
 **1. Master’s in Data Science | University at Buffalo, The State University of New York | GPA: 3.66/4.00 | Jan 22 – May 23**
    - Natural Language Processing and Text Mining
@@ -24,12 +30,6 @@
    - R-Programming
    - Cybersecurity and Forensic Analysis
    
-## EXPERIENCE: 
-**1. Machine Learning Quality Engineer | ServiceNow Inc | Santa Clara, California | July 23 - Till Date**
-**1. Associate Support Engineer | TIBCO Software India Private Limited | Pune, India | Sept 20 – Jan 22**
-**2. Data Analyst Intern | Software Kraft Solution Private Limited | Pune, India | Sept 19 – Aug 20**
-**3. Full Stack Intern | iWork Technologies Private Limited | Pune, India | June 19 – Aug 19**
-
 ## SKILLS:
    - Languages: Python, R, IronPython, Java.
    - Tools & Services: AWS Lambda, Postman, SoapUI, Git, Bitbucket, JIRA, Salesforce, Linux, Matlab.
